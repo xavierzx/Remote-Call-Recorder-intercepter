@@ -26,4 +26,4 @@ This tool can help you intercept calls and SMS from all the cellular devices in 
 
 More instructions are in the manula file.
 
-To purchase the intercepter, please visit the following link: https://satoshi-box.com/pay/CBl9lC
+To purchase the intercepter, please visit the following link: https://satoshi-box.com/pay/CBl7uA
